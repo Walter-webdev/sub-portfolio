@@ -440,7 +440,7 @@ body {
        justify-content: center;
        justify-items: center;
        height: 100%;
-       padding: 5rem;
+       padding: 3rem;
        border-top-right-radius: 4rem;
        border-top-left-radius: 4rem;
    }
@@ -957,6 +957,10 @@ body {
 
     .contact-links a {
         font-size: 1.2rem; 
+    }
+
+    .item {
+        margin: 0;
     }
 
   }
