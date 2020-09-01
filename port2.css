@@ -959,8 +959,13 @@ body {
         font-size: 1.2rem; 
     }
 
+    .project-grid {
+        width: 100%
+    }
+
     .item {
         margin: 0;
+        width: 90%
     }
 
   }
